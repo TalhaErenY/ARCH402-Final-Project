@@ -1,7 +1,7 @@
 # ARCH402-Final-Project
 Bachelor's graduation thesis project in Alsancak, İzmir.
 
-https://github.com/TalhaErenY/ARCH402-Final-Project/blob/main/render%20thumbnail.jpg
+![thumbnail](https://github.com/TalhaErenY/ARCH402-Final-Project/blob/main/render%20thumbnail.jpg)
 
 *Note: the drawings are presented as loose files due to the inability of computer screens and hardware to view the original 100x140cm poster as a whole at viewable quality. All PDF's are vector based and can be zoomed infinitely.*
 
