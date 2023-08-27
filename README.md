@@ -1,6 +1,8 @@
 # ARCH402-Final-Project
 Bachelor's graduation thesis project in Alsancak, İzmir.
 
+https://github.com/TalhaErenY/ARCH402-Final-Project/blob/main/render%20thumbnail.jpg
+
 *Note: the drawings are presented as loose files due to the inability of computer screens and hardware to view the original 100x140cm poster as a whole at viewable quality. All PDF's are vector based and can be zoomed infinitely.*
 
 The project focuses on the former Alsancak Tobacco Monopoly Factory (Eski Alsancak Tekel Fabrikası). The site finished being restored and was reopened as a cultural center the same month I presented this project as my final thesis.
