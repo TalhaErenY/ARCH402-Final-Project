@@ -7,6 +7,6 @@ The Monopoly Factory is a French built industrial heritage site from the Late Ot
 
 The greater project area encompasses the 9 buildings of the former factory, the former TCDD (national railway) offices on the opposite side of the railway, and an empty plot to the south of the factory.
 
-Around 1/3rd of the district of Konak, İzmir was modelled using aid of AutoCAD, Rhino and Blender for the project. The original city plan provided as a dwg file was converted to 3D buildings in rhino, which were then exported to blender and combined with the topography and textured using satellite imagery and procedural texture generation (for the sides of buildings). The entire district model can be found in its respective page on my github.
+Around 1/3rd of the district of Konak, İzmir was modelled using aid of AutoCAD, Rhino and Blender for the project. The original city plan provided as a dwg file was converted to 3D buildings in rhino+grasshopper, which were then exported to blender and combined with the topography and textured using satellite imagery and procedural texture generation (for the sides of buildings). *Every background building visible in the project is has its real height*. The entire district model can be found in its respective page on my github.
 
 The entirety of the Tobacco Monopoly Factory (inside and outside) was modelled in Revit using aid from the survey drawings provided by the Turkish Body of Conservation as AutoCAD files. This project can be found on its respective page on my github.
