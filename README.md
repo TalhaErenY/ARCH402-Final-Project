@@ -9,7 +9,7 @@ The project focuses on the former Alsancak Tobacco Monopoly Factory (Eski Alsanc
 
 The Monopoly Factory is a French built industrial heritage site from the Late Ottoman Period. Originally owned by the Régie Company, it became part of the state monopoly (Tekel) when the Régie Company was nationalised under the republic. While in reality the Monopoly Factory was opened as a cultural center, I wanted to reimagine another use for it that is needed in İzmir: a university campus. Due to its accessibility by public transport, the Monopoly Factory is in prime location to be converted into an institute of education. It is also not the first of its kind in the area, directly adjacent to the plot is a heritage site hotel and offices that have been converted to a highschool and kindergarten respectively.
 
-![thumbnail](https://github.com/TalhaErenY/Tekel-Tutun-In-Revit/blob/main/Isometric%20Drawing%20Thumbnail.png)
+![thumbnail](https://github.com/TalhaErenY/ARCH402-Final-Project/blob/main/drawing%20thumbnail.jpg)
 
 The greater project area encompasses the 9 buildings of the former factory, the former TCDD (national railway) offices on the opposite side of the railway, and an empty plot to the south of the factory.
 
